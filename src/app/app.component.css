@@ -52,8 +52,9 @@
 }
 
 #header-scroll-button {
-  bottom: 20px;
+  bottom: 32px;
   height: 64px;
+  line-height: 64px;
   position: absolute;
   width: 64px;
 }
