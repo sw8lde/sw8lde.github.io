@@ -29,6 +29,7 @@
     "ng2-fullpage": "^2.1.0",
     "ng2-smooth-scroll": "^1.0.1",
     "ngx-fullpage": "^4.0.6",
+    "node-sass": "^4.12.0",
     "rxjs": "^5.4.2",
     "zone.js": "^0.8.14"
   },

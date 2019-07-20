@@ -31,6 +31,12 @@ export class AppComponent {
       code: '/Battleship'
     },
     {
+      title: 'HW-Monitor',
+      languages: 'Python',
+			desc: 'Web server to monitor PC status, start/stop programs, change fan profile/curve, and change RGB settings.',
+			code: '/HW-Monitor'
+    },
+    {
       title: 'Zero Percent',
       languages: 'Android',
       desc: 'An Android app that sends a text with your location to selected ' +
